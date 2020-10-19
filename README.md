@@ -8,7 +8,7 @@ Otomisasi Pengiriman WhatsApp menggunakan Bahasa Pemograman Python
 4. Ketik `pip install pyautogui`
 
 ## Penggunaan
-1. Daftaran WhatsApp Web pada browser yang akan dipilih
+1. Daftarkan WhatsApp Web pada browser yang akan dipilih
 2. Edit pesan di file `pesan.txt`
 3. Edit daftar nomor di file `nomor.txt`
 4. Buka terminal lalu ketik `kirim.py`
@@ -19,3 +19,5 @@ Otomisasi Pengiriman WhatsApp menggunakan Bahasa Pemograman Python
 - [ ] Tambahkan deteksi pesan sudah terkirim/belum (agar tidak menggunakan time sleep)
 - [ ] Tambahlan Prosedur untuk pengguna Mac
 - [ ] Tambahlan Prosedur untuk pengguna GUI Linux
+
+`Saat ini hanya bisa digunakan di Operasi Sistem Windows`
